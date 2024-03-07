@@ -60,4 +60,7 @@ Type in a prompt: What are 3 examples of generative AI helping people?. You can 
 
 Link documentação MS : https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html#sign-into-microsoft-copilot
 
+prompt: Create an image of a basketball player dunking, depicted as an explosion of a nebula.”
+
+![image](https://github.com/edudias1972/ExploregenerativeAIwithMicrosoftCopilot/assets/80340034/e0e4f705-87a0-414e-96bb-b9590f4b008f)
 
